@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+img{
+    height: 50px;
+   
+}
+a{
+    color: #000 !important;
+    font-weight: bold !important;
+}
+
+.crousel{
+    height: 400px;
+    position: relative;
+    
+}
+/* .row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+   margin-top: -80px;
+} */
+/* .row2{
+    display: flex;
+    justify-content: space-between;
+} */
+.about-sec-img{
+    width: 400px ;
+    height: 400px;
+    border-radius: 50px;
+   
+
+}
+.about-text{
+    padding-left: 100px;
+}
+.section-padding{
+    padding: 100px 0 ;
+}
+p{
+    max-width: 400px;
+    text-align:justify;
+}
